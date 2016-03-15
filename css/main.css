@@ -15,3 +15,8 @@ html{
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.click {
+  text-decoration: line-through;
+  color: #5E5E5E;
+}
